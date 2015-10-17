@@ -4,10 +4,8 @@ Created on Oct 10, 2015
 @author: ThetNaing
 '''
 import json
-import urllib2
 import httplib
 import re
-import sys
 import Properties
 
 RAW_DATA = None
@@ -52,7 +50,7 @@ def parseData(data):
             if c['rarity'] in set(Properties.RARITY_FILTER) and c['type'] in set(Properties.TYPE_FILTER):
                 chars.append(c)
             else:
-                print 'Rejected', c['name'],'-', c['title']
+                print 'Rejected', c['name'],'-', ['title']
             charId = charId + 1
     return chars     
 '''

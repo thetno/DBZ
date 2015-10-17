@@ -3,14 +3,8 @@ Created on Oct 10, 2015
 
 @author: ThetNaing
 '''
-import json
-import urllib2
 import itertools
 import networkx as nx
-from networkx.release import description
-from matplotlib import pyplot as plt
-from mcl_clustering import networkx_mcl
-from networkx.classes.graph import Graph
 from moo import DbzDokkRaw, RedditWikiRaw
 import Properties
 import operator
