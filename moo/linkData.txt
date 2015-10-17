@@ -1,0 +1,397 @@
+[  
+   {  
+      "id":1,
+      "name":"All in the Family",
+      "description":"+2000 DEF"
+   },
+   {  
+      "id":2,
+      "name":"Android Assault",
+      "description":"+1000 DEF"
+   },
+   {  
+      "id":3,
+      "name":"Attack of the Clones",
+      "description":"+1 Ki"
+   },
+   {  
+      "id":4,
+      "name":"Battlefield Diva",
+      "description":"+2 Ki"
+   },
+   {  
+      "id":5,
+      "name":"Berserker",
+      "description":"ATK +20% when HP is 10% or below"
+   },
+   {  
+      "id":6,
+      "name":"Best Buddies",
+      "description":"+1 Ki"
+   },
+   {  
+      "id":7,
+      "name":"Big Bad Bosses",
+      "description":"ATK +25% when HP is 10% or below"
+   },
+   {  
+      "id":8,
+      "name":"Bombardment",
+      "description":"ATK +15%"
+   },
+   {  
+      "id":9,
+      "name":"Brainiacs",
+      "description":"+300 ATK, +1000 DEF"
+   },
+   {  
+      "id":10,
+      "name":"Brutal Beatdown",
+      "description":"+500 ATK"
+   },
+   {  
+      "id":11,
+      "name":"Cold Judgement",
+      "description":"+300 ATK"
+   },
+   {  
+      "id":12,
+      "name":"Cool Judgement",
+      "description":"+300 ATK"
+   },
+   {  
+      "id":13,
+      "name":"Courage",
+      "description":"+1 Ki"
+   },
+   {  
+      "id":14,
+      "name":"Coward",
+      "description":"+1 Ki"
+   },
+   {  
+      "id":15,
+      "name":"Crane School",
+      "description":"+500 ATK"
+   },
+   {  
+      "id":16,
+      "name":"Demon",
+      "description":"+1 Ki"
+   },
+   {  
+      "id":17,
+      "name":"Demon Duo",
+      "description":"+20% ATK"
+   },
+   {  
+      "id":18,
+      "name":"Dodon Ray",
+      "description":"+2000 ATK when using Super Attack"
+   },
+   {  
+      "id":19,
+      "name":"Evil Autocrats",
+      "description":"+1 Ki"
+   },
+   {  
+      "id":20,
+      "name":"Family Ties",
+      "description":"+2 Ki"
+   },
+   {  
+      "id":21,
+      "name":"Flee",
+      "description":"+1 Ki when HP is 20% or below"
+   },
+   {  
+      "id":22,
+      "name":"Frieza's Army",
+      "description":"+1000 DEF"
+   },
+   {  
+      "id":23,
+      "name":"Frieza's Minion",
+      "description":"+300 ATK"
+   },
+   {  
+      "id":24,
+      "name":"Gaze of Respect",
+      "description":"+2 Ki"
+   },
+   {  
+      "id":25,
+      "name":"Gentleman",
+      "description":"+2 Ki"
+   },
+   {  
+      "id":26,
+      "name":"Golden Warrior",
+      "description":"Ki +1 Opponent, DEF -2000"
+   },
+   {  
+      "id":27,
+      "name":"Hero",
+      "description":"+20% DEF"
+   },
+   {  
+      "id":28,
+      "name":"Infighter",
+      "description":"Opponent DEF -5%"
+   },
+   {  
+      "id":29,
+      "name":"Kamehameha",
+      "description":"+2500 ATK when using Super Attack"
+   },
+   {  
+      "id":30,
+      "name":"Master and Pupil",
+      "description":"+1 Ki"
+   },
+   {  
+      "id":31,
+      "name":"Mechanical Menaces",
+      "description":"+1 Ki"
+   },
+   {  
+      "id":32,
+      "name":"Messenger from the Future",
+      "description":"+500 ATK"
+   },
+   {  
+      "id":33,
+      "name":"Metamorphosis",
+      "description":"HP recovery +5%"
+   },
+   {  
+      "id":34,
+      "name":"Money Money Money",
+      "description":"+1 Ki"
+   },
+   {  
+      "id":35,
+      "name":"More Than Meets the Eye",
+      "description":"+300 ATK"
+   },
+   {  
+      "id":36,
+      "name":"Namekians",
+      "description":"HP recovery +5%"
+   },
+   {  
+      "id":37,
+      "name":"New",
+      "description":"+200 ATK"
+   },
+   {  
+      "id":38,
+      "name":"Over 9000",
+      "description":"ATK +10%"
+   },
+   {  
+      "id":39,
+      "name":"Prodigies",
+      "description":"+700 ATK"
+   },
+   {  
+      "id":40,
+      "name":"Respect",
+      "description":"+500 ATK"
+   },
+   {  
+      "id":41,
+      "name":"Revival",
+      "description":"+2 Ki"
+   },
+   {  
+      "id":42,
+      "name":"Rival Duo",
+      "description":"-1000 DEF on attacked enemies, +500 ATK"
+   },
+   {  
+      "id":43,
+      "name":"RR Army",
+      "description":"+300 ATK"
+   },
+   {  
+      "id":44,
+      "name":"Saiyan Pride",
+      "description":"+15% ATK"
+   },
+   {  
+      "id":45,
+      "name":"Saiyan Warrior Race",
+      "description":"+700 ATK"
+   },
+   {  
+      "id":46,
+      "name":"Shocking Speed",
+      "description":"+2 Ki"
+   },
+   {  
+      "id":47,
+      "name":"Sibling",
+      "description":"+1 Ki"
+   },
+   {  
+      "id":48,
+      "name":"Speedy Retribution",
+      "description":"+300 ATK"
+   },
+   {  
+      "id":49,
+      "name":"Strongest Clan in Space",
+      "description":"+2 Ki"
+   },
+   {  
+      "id":50,
+      "name":"Strongest Duo on Earth",
+      "description":"+10% ATK"
+   },
+   {  
+      "id":51,
+      "name":"Super Saiyan",
+      "description":"+10% ATK"
+   },
+   {  
+      "id":52,
+      "name":"Supreme Warrior",
+      "description":"+1 Ki"
+   },
+   {  
+      "id":53,
+      "name":"Tag Team of Terror",
+      "description":"+500 ATK"
+   },
+   {  
+      "id":54,
+      "name":"Team Bardock",
+      "description":"+1 Ki"
+   },
+   {  
+      "id":55,
+      "name":"Telekinesis",
+      "description":"Opponent DEF - 10%"
+   },
+   {  
+      "id":56,
+      "name":"The Ginyu Force",
+      "description":"+25% ATK"
+   },
+   {  
+      "id":57,
+      "name":"The Hercule Family",
+      "description":"+1 Ki"
+   },
+   {  
+      "id":58,
+      "name":"The Innocents",
+      "description":"+10% ATK"
+   },
+   {  
+      "id":59,
+      "name":"The Vegeta Family",
+      "description":"+1 Ki"
+   },
+   {  
+      "id":60,
+      "name":"Thirst for Conquest",
+      "description":"+15% ATK"
+   },
+   {  
+      "id":61,
+      "name":"Tough as Nails",
+      "description":"+1500 DEF"
+   },
+   {  
+      "id":62,
+      "name":"Turtle School",
+      "description":"+500 ATK \u0026 +500 DEF"
+   },
+   {  
+      "id":63,
+      "name":"Twin Terrors",
+      "description":"+2 Ki"
+   },
+   {  
+      "id":64,
+      "name":"Universe's Most Malevolent",
+      "description":"+15% ATK"
+   },
+   {  
+      "id":65,
+      "name":"World Tournament Champion",
+      "description":"+1 Ki"
+   },
+   {  
+      "id":66,
+      "name":"World Tournament Reborn",
+      "description":"+1 Ki"
+   },
+   {  
+      "id":67,
+      "name":"Z Fighters",
+      "description":"+500 ATK"
+   },
+   {  
+      "id":68,
+      "name":"Dismal Future",
+      "description":"Ki +1"
+   },
+   {  
+      "id":69,
+      "name":"Organic Upgrade",
+      "description":"Ki +2"
+   },
+   {  
+      "id":70,
+      "name":"Energy Absorption",
+      "description":"+2 Ki"
+   },
+   {  
+      "id":71,
+      "name":"Strength in Unity",
+      "description":"+1 Ki"
+   },
+   {
+   	  "id":72,
+   	  "name":"Galactic Warriors",
+   	  "description":"ATK +20%"
+   },
+   {
+   	  "id":74,
+   	  "name":"Atrocities",
+   	  "description":"ATK +500"
+   },
+   {
+   	  "id":74,
+   	  "name":"Loyalty",
+   	  "description":"Ki +1"
+   },
+   {
+   	  "id":75,
+   	  "name":"Cold Judgment",
+   	  "description":"ATK +300"
+   },
+   {
+   	  "id":75,
+   	  "name":"The Hera Clan",
+   	  "description":"Ki +2"
+   },
+   {
+   	  "id":76,
+   	  "name":"Connoisseur",
+   	  "description":"+5% HP Recovery"
+   },
+   {
+   	  "id":76,
+   	  "name":"The Students",
+   	  "description":"DEF +1000"
+   },
+   {
+   	  "id":76,
+   	  "name":"Godly Power",
+   	  "description":"ATK +15%"
+   }
+]
