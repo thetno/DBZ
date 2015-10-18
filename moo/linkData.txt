@@ -51,12 +51,7 @@
    },
    {  
       "id":11,
-      "name":"Cold Judgement",
-      "description":"+300 ATK"
-   },
-   {  
-      "id":12,
-      "name":"Cool Judgement",
+      "name":"Cold Judgment",
       "description":"+300 ATK"
    },
    {  
@@ -368,11 +363,6 @@
    	  "id":74,
    	  "name":"Loyalty",
    	  "description":"Ki +1"
-   },
-   {
-   	  "id":75,
-   	  "name":"Cold Judgment",
-   	  "description":"ATK +300"
    },
    {
    	  "id":75,

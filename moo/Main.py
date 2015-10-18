@@ -69,8 +69,17 @@ class Character:
         self.gameid = data['gameid']
         self.type = data['type'].encode('ascii', 'ignore').strip()
         self.rarity = data['rarity'].encode('ascii', 'ignore').strip()
-        self.links = self.convertUnicodeListToStringList(data['links'])  
+        self.links = self.convertUnicodeListToStringList(data['links'])
+        self.isLinkValid()
 
+    def isLinkValid(self):
+        global LINK_DATA 
+        allLinks = set([l.name for l in LINK_DATA])
+        for link in self.links:
+            if link not in allLinks:
+                print "Invalid Link:", link
+                
+        
     def convertUnicodeListToStringList(self, data):
         result = ()
         for i in data:
@@ -92,12 +101,8 @@ class Character:
 MINE = open('myCharList.txt').read()
 
 
-TEST = '''Cell (Perfect Form)|Perfect Power
-Goku|Determined Defender
-Goku (Angel)|Message from another World
-Goku (Kid)|Innocent Challenger
-Jackie Chun|Seasoned Sensei
-King Vegeta|Proud Royalty'''
+TEST = '''Chilled - Dastardly Space Pirate
+Full Power Bojack - Full Strength Tremor'''
 
 
 
@@ -146,7 +151,9 @@ def main():
     LINK_DATA_RAW = RedditWikiRaw.getRawLinkData()
     CHAR_DATA_RAW = RedditWikiRaw.getRawCharData()
     
+    global LINK_DATA
     LINK_DATA = getLinkData(LINK_DATA_RAW)
+    global CHAR_DATA
     CHAR_DATA = getCharData(CHAR_DATA_RAW)  
     
     # Get string in this format for easy analysis
