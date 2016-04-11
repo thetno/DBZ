@@ -23,6 +23,8 @@ graph G {
 "Raditz - Cocky Counter" -- "Mercenary Tao - Professional Tactician" [label="2", tooltip="+500 ATK,+1 Ki"];
 "Raditz - Cocky Counter" -- "Chilled - Dastardly Space Pirate" [label="2", tooltip="+500 ATK,+1 Ki"];
 "Mercenary Tao - Professional Tactician" -- "Chilled - Dastardly Space Pirate" [label="2", tooltip="+500 ATK,+1 Ki"];
+
+End
 "Goku (Angel) - Messenger from another world" -- "Gohan (Teen) - Grand Plan" [label="2", tooltip="+2500 ATK when using Super Attack,+500 ATK"];
 "Goku (Angel) - Messenger from another world" -- "Goku - Determined Defender" [label="3", tooltip="+2500 ATK when using Super Attack,+10% ATK,+500 ATK"];
 "Goku (Angel) - Messenger from another world" -- "Goku - The Saiyan Among Us" [label="2", tooltip="+2500 ATK when using Super Attack,+500 ATK"];
